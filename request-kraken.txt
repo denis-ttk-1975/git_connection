@@ -1,0 +1,3 @@
+some text
+i shoud to add
+from kraken gui
