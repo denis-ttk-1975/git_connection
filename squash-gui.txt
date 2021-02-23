@@ -1,0 +1,3 @@
+text gui 1
+text gui 2
+text gui 3
