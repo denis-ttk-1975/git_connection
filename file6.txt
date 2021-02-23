@@ -1,1 +1,2 @@
 some text for file6.txt created in branch-6
+takge dobavlyayu novii text vo vtornik
